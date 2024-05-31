@@ -30,7 +30,7 @@ This project contains a DialogFlow ES bot designed to handle order status inquir
 
 1. **Clone the Repository**:
  
-   git clone https://github.com/yourusername/rest-api-order-status.git
+   git clone https://github.com/yourusername/rest-api-order-status.git(https://github.com/NabeelAhmed2211012KHICND/DialogFlowbot.git)
    cd rest-api-order-status
 
 
